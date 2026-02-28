@@ -6,7 +6,7 @@ El sistema permite mover cada articulación enviando comandos desde ROS 2 hacia 
 
 ---
 
-#Descripción del Proyecto
+# Descripción del Proyecto
 
 El sistema está dividido en dos partes principales:
 
